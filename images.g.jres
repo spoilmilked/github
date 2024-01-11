@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAADADAAAAAAAA8AMAAAAAAAAwMzMzMzMAADDTMzMNAAAAAADQMwMAAAAAADAzAwAAAAAAMNMDAAAAAAAwMwMAAAAAAAAzMz0AAAAAADMAAAAAAAAA0AAAAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "dino"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
